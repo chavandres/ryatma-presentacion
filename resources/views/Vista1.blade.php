@@ -138,7 +138,7 @@
     <i class="fa-solid fa-box-open"></i>
     </div>
     <div class="texto">
-    Servicio de Encomienda.
+    Servicio de Encomienda
     </div>
     <div class="subtexto">
     Hacemos envíos a todo el país.
