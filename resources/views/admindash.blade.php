@@ -197,7 +197,15 @@
                           </tr>
                         
                       </tbody>
+                      <div class="position-fixed bottom-0 end-0 p-3">
+                        <a href="/AgregarUsuario">
+                          <button type="button" class="btn btn-primary">Ingresar Usuario</button>
+                      </a>
+                        
+                    </div>
+                      
                     </table>
+                    
                   </div>
                 </div>
               </div>

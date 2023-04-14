@@ -25,6 +25,10 @@ Route::get('/inicio', function () {
     return view('Vista1');
 });
 
+Route::get('/AgregarUsuario', function () {
+    return view('IngresarUsuariodash');
+});
+
 
 
 Route::middleware([
