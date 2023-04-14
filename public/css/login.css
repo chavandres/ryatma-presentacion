@@ -26,7 +26,7 @@ body {
     height: 100px;
     position: absolute;
     top: -25px;
-    left: calc(40% - 50px);
+    left: calc(38% - 50px);
   }
   
   .login-box h1 {

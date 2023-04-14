@@ -20,8 +20,8 @@
         <br>
         <form>
             <!-- USERNAME INPUT -->
-            <label for="username">Usuario</label>
-            <input type="text" placeholder="Digite su usario">
+            <label for="username">Usuario o cédula</label>
+            <input type="text" placeholder="Digite su usario o cédula">
             <br>
             <!-- PASSWORD INPUT -->
             <br>
