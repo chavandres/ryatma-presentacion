@@ -29,6 +29,13 @@ Route::get('/AgregarUsuario', function () {
     return view('IngresarUsuariodash');
 });
 
+Route::get('/admin/proveedores', function () {
+    return view('proveedores');
+});
+
+Route::get('/productos', function () {
+    return view('productos');
+});
 
 
 Route::middleware([
