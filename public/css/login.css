@@ -73,6 +73,22 @@ body {
     background: #ffc107;
     color: #000;
   }
+
+  .login-box input[type="button"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #FCEC07;
+    color: #1C3180;
+    font-size: 18px;
+    border-radius: 20px;
+  }
+  
+  .login-box input[type="button"]:hover {
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+  }
   
   .login-box a {
     text-decoration: none;

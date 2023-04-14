@@ -17,6 +17,14 @@ Route::get('/', function () {
     return view('Login');
 });
 
+Route::get('/admin', function () {
+    return view('admindash');
+});
+
+Route::get('/inicio', function () {
+    return view('Vista1');
+});
+
 
 
 Route::middleware([

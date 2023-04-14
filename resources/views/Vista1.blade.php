@@ -78,19 +78,13 @@
           <div class="mx-auto"></div>
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="#">Opcion 1</a>
+              <a class="nav-link" href="/admin">Panel Administrativo</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">   </a>
+              <a class="nav-link" href="#">Productos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Opcion 2</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">   </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Opcion 3</a>
+              <a class="nav-link" href="#">Quienes Somos</a>
             </li>
           </ul>
         </div>
